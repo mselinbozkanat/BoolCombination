@@ -1,0 +1,7 @@
+C:\Users\selin\source\repos\BoolCombination\BoolCombination\bin\Debug\BoolCombination.exe.config
+C:\Users\selin\source\repos\BoolCombination\BoolCombination\bin\Debug\BoolCombination.exe
+C:\Users\selin\source\repos\BoolCombination\BoolCombination\bin\Debug\BoolCombination.pdb
+C:\Users\selin\source\repos\BoolCombination\BoolCombination\obj\Debug\BoolCombination.csprojAssemblyReference.cache
+C:\Users\selin\source\repos\BoolCombination\BoolCombination\obj\Debug\BoolCombination.csproj.CoreCompileInputs.cache
+C:\Users\selin\source\repos\BoolCombination\BoolCombination\obj\Debug\BoolCombination.exe
+C:\Users\selin\source\repos\BoolCombination\BoolCombination\obj\Debug\BoolCombination.pdb
